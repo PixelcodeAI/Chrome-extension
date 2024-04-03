@@ -1,1 +1,1 @@
-# Pixelcode-extension
+# Chrome-extension
