@@ -1,3 +1,5 @@
+![Cover](https://github.com/PixelcodeAI/Meet_our_chrome-extension/assets/165794088/59e2b5d8-3597-435b-b119-77ad320086a2)
+
 ## Pixelcode AI - Extract code from video tutorials
 
 Turn code screenshots into editable code, powered by AI ✨.
